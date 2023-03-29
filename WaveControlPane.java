@@ -1,4 +1,4 @@
-// Assignment 12: Arizona State University CSE205
+// 
 //      
 ///  Description: Practice javaFX animation and multi-threading programming.
 
